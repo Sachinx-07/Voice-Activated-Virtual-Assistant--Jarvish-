@@ -119,7 +119,7 @@ Always use environment variables to keep them secure.
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+[Malaya Ranjan Pradhan]
 
 ---
 
